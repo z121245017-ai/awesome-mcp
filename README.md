@@ -1675,6 +1675,7 @@
 - [henfrydls/actual-budget-mcp](https://github.com/henfrydls/actual-budget-mcp) — Query and update a budget in Actual Budget ☆`21`
 ### Crypto & Blockchain
 
+- [Chain-Love/chain.love-mcp](https://github.com/Chain-Love/chain.love-mcp) — Hosted remote MCP gateway (`https://app.chain.love/mcp`) for discovering and comparing Web3 infrastructure services (RPCs, indexers, oracles, bridges, wallets) across 50+ blockchains
 - [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) — Screeners and backtests for crypto, stocks and forex ☆`5,333`
 - [agent-next/polymarket-paper-trader](https://github.com/agent-next/polymarket-paper-trader) — Paper trading simulator for Polymarket ☆`509`
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) — EVM network interaction for LLMs ☆`381`
